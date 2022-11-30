@@ -5,9 +5,9 @@
 I'm a Front-end developer 
     
 ## About
--  **Learning :** Java | NodeJs
--  **Languages :** Javascript | Java
--  **Hobbies:** Dota | The Legend of Zelda
+-  **Learning :**  NodeJs
+-  **Languages :** Javascript | TypeScrite
+-  **Hobbies:** SC | War|Shen
 
 ### My code time
 
